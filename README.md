@@ -1,7 +1,7 @@
 # Reading List
 Articles on embedded systems, programming, and the likes.
 
-## SpaceX Internals
+## SpaceX Avionics
 - https://stackoverflow.blog/2021/05/13/building-the-software-that-helps-build-spacex/
 - https://stackoverflow.blog/2021/05/11/testing-software-so-its-reliable-enough-for-space/
 - https://lwn.net/Articles/540368/
@@ -19,14 +19,12 @@ Articles on embedded systems, programming, and the likes.
 - https://www.appinf.com/download/SafetyCriticalC++.pdf
 - https://www.stroustrup.com/JSF-AV-rules.pdf
 - https://www.boost.org/community/exception_safety.html
-- 
 
 ## General C++ 
 - https://akrzemi1.wordpress.com/2019/04/25/handling-errors-is-canceling-operations/#more-9683
 - https://akrzemi1.wordpress.com/2012/11/14/not-using-stdthread/
 
-
-Real-Time Programming 
+## Real-Time Programming 
 - http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing
 
 
