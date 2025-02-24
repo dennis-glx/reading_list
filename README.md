@@ -11,6 +11,7 @@ Articles on embedded systems, programming, and the likes.
 
 ## NASA JPL
 - https://llis.nasa.gov/lesson/2218
+- https://spinroot.com/gerard/pdf/P10.pdf
 
 ## Embedded Systems
 - https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html
