@@ -25,6 +25,8 @@ Articles on embedded systems, programming, and the likes.
 - https://akrzemi1.wordpress.com/2019/04/25/handling-errors-is-canceling-operations/#more-9683
 - https://akrzemi1.wordpress.com/2012/11/14/not-using-stdthread/
 
+## CPP-CON Talks [YouTube]
+- Dependency Injection https://youtu.be/as5Z45G59Ws?si=jhlnODW30EZpFAgG
 ## Real-Time Programming 
 - http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing
 
